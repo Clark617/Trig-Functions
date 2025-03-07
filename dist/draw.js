@@ -11,7 +11,7 @@ export const trigFuncs = [
         freq: 4,
         function: Math.cos,
         color: 'magenta',
-        name: '3cos4θ'
+        name: 'Y=3cos4θ'
     },
     {
         amp: -1,
@@ -32,14 +32,14 @@ export const trigFuncs = [
         freq: 4,
         function: Math.sin,
         color: 'green',
-        name: '2sin4θ'
+        name: 'Y=2sin4θ'
     },
     {
         amp: 2,
         freq: 2,
         function: Math.cos,
         color: 'blue',
-        name: '2cos2θ'
+        name: 'Y=2cos2θ'
     },
     {
         amp: -2,
